@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/keerthi-Theatre/static/css/main.e6c13ad2.css",
+    "main.js": "/keerthi-Theatre/static/js/main.4eec3104.js",
+    "static/js/453.ca3bc1f9.chunk.js": "/keerthi-Theatre/static/js/453.ca3bc1f9.chunk.js",
+    "index.html": "/keerthi-Theatre/index.html",
+    "main.e6c13ad2.css.map": "/keerthi-Theatre/static/css/main.e6c13ad2.css.map",
+    "main.4eec3104.js.map": "/keerthi-Theatre/static/js/main.4eec3104.js.map",
+    "453.ca3bc1f9.chunk.js.map": "/keerthi-Theatre/static/js/453.ca3bc1f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4eec3104.js"
+  ]
+}
