@@ -1,0 +1,31 @@
+.movie-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transition: 0.3s ease;
+}
+
+/* Hover animation */
+.movie-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.15);
+}
+
+.movie-title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.movie-language {
+  color: #444;
+  margin-top: 5px;
+}
+
+.movie-rating {
+  margin-top: 8px;
+  color: #d4a017; /* Golden color */
+  font-weight: bold;
+}

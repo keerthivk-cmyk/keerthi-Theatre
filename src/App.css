@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+/* Center content & apply basic theme */
+.app-container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+}
+
+.welcome-section {
+  margin-top: 10px;
+}
+
+/* Footer styling */
+.footer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
